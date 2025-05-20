@@ -1,4 +1,4 @@
-import { useState, useTransition } from 'react'
+import { useState } from 'react'
 import './App.css'
 import { languages } from './languages'
 import { getFarewellText, getRandomWord } from './utils'
